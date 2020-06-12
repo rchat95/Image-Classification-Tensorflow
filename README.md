@@ -9,6 +9,6 @@ Built a CNN model class using tensorflow and keras. There is also a function to 
 
 Using the CNN model with my own layers, I got an accuracy of 71%. You can play with a lot of parameters such as loss functions, momentum and optimizers.
 
-![Predictions on the CIFAR10 dataset](/output.png){:height="50%" width="50%"}
+![Predictions on the CIFAR10 dataset](/output.png)
 
 This model can also be easily applied on a variety of larger datasets.
