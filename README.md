@@ -7,4 +7,6 @@ Dataset used - CIFAR10
 
 Built a CNN model class using tensorflow and keras. There is also a function to load or import an existing model, like the VGG16 or the VGG19 model.
 
-Using the CNN model with my own layers, I got an accuracy of 71%. You can play with a lot of parameters such as loss functions, momentum and optimizers
+Using the CNN model with my own layers, I got an accuracy of 71%. You can play with a lot of parameters such as loss functions, momentum and optimizers.
+
+This model can also be easily applied on a variety of larger datasets.
